@@ -1,0 +1,1 @@
+Compilation of Michael Pearce's solutions to the Project Euler problems
